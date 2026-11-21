@@ -1,0 +1,8 @@
+{
+  "name": "Spacecraft Shooting",
+  "description": "A cozy 3D isometric multiplayer space combat game with Duo, Squad, and Survival modes, weapon upgrades, combo multipliers, and real-time online rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
